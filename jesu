@@ -1,0 +1,20 @@
+$ git push Heroku
+ Recuento de objetos: 5, hecho.
+ compresión Delta con un máximo de 4 hilos.
+ objetos Compresión: 100% (3/3), hecho.
+ objetos de escritura:. 100% (3/3), 347 bytes, hechos
+ Total 3 (delta 1), reutilizados 0 (delta 0)
+ 
+-----> Heroku recibiendo empuje
+ -----> PHP aplicación detecta
+ -----> Bundling Apache ... hecho, v2.2.19
+ -----> Bundling PHP ... hecho, v5.3.6
+ -----> Descubriendo tipos de procesos
+        Procfile declara tipos -> (ninguno)
+        los tipos predeterminados de PHP -> web
+ -----> Tamaño Compilado slug es 20.9MB
+ -----> Puesta en marcha .. . hecho, v2
+        https://peaceful-refuge-3475.herokuapp.com desplegados en Heroku
+ 
+Para git@heroku.com: furious-robot-218.git
+    396ec84 .. amo 994290d -> maestro
